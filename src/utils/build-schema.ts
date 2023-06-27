@@ -4,7 +4,7 @@ import { buildSchema as typeGraphqlBuildSchema } from "type-graphql";
 
 import { resolvers } from "../modules";
 
-import { ObjectIdScalar } from "./";
+import { ObjectIdScalar } from ".";
 
 export const buildSchema = () =>
   typeGraphqlBuildSchema({
