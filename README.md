@@ -57,12 +57,6 @@
 
 - Run `npm start`
 
-#### Run integration tests
-
-- Run 'npm test'
-
-> Integration tests are done with Jest, Apollo Server Testing and MongoDB Memory Server. This way every test are testing our entire logic with every graphQL request, from our resolvers to our models!
-
 #### Access to the GraphQL Playground (Dev only)
 
 - `http://localhost:{port}/graphql`
