@@ -8,6 +8,8 @@
 
 ## Folder structure
 
+- Modular using clean code
+
 #### Overview
 
 ```
